@@ -1,0 +1,9 @@
+1. por qué todo el test suite con tester.c, abi_enforcer, test-utils.h, las funciones macro, etc,
+si con la función assert, usada en main.c, ya se puede testear el programa? Qué aportan estos diferentes
+módulos o suites?
+
+
+2. Investigar uso y funcionamiento de funciones macro
+
+
+3. 

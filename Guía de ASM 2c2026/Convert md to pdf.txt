@@ -1,0 +1,1 @@
+pandoc Introduccion.md -o Introduccion.pdf --pdf-engine=xelatex -f markdown-implicit_figures
