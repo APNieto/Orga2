@@ -69,7 +69,7 @@ funcion_que_recorre:
   mov RBP, RSP ;strack frame armado
 
   ;tengo en RDI un puntero al comienzo de un array de alumnos
-  ;y en RSI el tamaño del array
+  ;y en RSI el tamaño del array (medido en cantidad de structs 'alumno')
   ;asumimos que al menos hay un elemento en el array
 
   XOR R8, R8 ;usamos R8 como índice en el array
