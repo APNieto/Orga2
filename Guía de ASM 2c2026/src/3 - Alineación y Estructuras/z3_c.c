@@ -13,7 +13,7 @@ int main() {
 
     alumno alumnos[3] = {a1, a2, a3};
 
-    print_names_alumnos(alumnos, sizeof(alumnos) / sizeof(alumno), sizeof(alumno));
+    print_names_alumnos(alumnos, sizeof(alumnos) / sizeof(alumno));
     
 
 }
