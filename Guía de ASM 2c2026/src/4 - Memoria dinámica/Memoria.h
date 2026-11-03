@@ -34,8 +34,8 @@ utilizar en nuestro programa
 // Compara dos strings en orden lexicográfico. Ver https://es.wikipedia.org/wiki/Orden_lexicografico.
 // Debe retornar:
 // 0 si son iguales
-// 1 si a < b
-//-1 si a > b
+//-1 si a < b
+// 1 si a > b
 int32_t strCmp(char *a, char *b);
 
 // Genera una copia del string pasado por parámetro. El puntero pasado siempre es válido
